@@ -1,6 +1,8 @@
 Blaze In React
 ==============
 
+**This package depends on the MDG's `react-runtime` package. If you are using another React integration, let me know and I will create a version of the package that depends on that integration instead.**
+
 ```jsx
 <BlazeInReact template='loginButtons' data={{align: 'right'}} />
 ```
